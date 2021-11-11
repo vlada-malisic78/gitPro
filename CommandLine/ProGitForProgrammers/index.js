@@ -1,2 +1,4 @@
 let date = new Date();
-console.lot(data);
+let year = date.getFullYear();
+
+console.log(year);
