@@ -1,4 +1,4 @@
 let date = new Date();
 let year = date.getFullYear();
 
-console.log(year);
+console.log(`This year is ${year}`);
